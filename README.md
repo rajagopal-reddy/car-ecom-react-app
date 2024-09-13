@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # React + Vite
 
@@ -11,3 +12,7 @@ Currently, two official plugins are available:
 # test-code
 test-demo
 
+=======
+# test-code
+test-demo
+>>>>>>> ceb7f48aec4f0309f16c65cf67fcb114dedc2f5b
